@@ -20,7 +20,7 @@ enum custom_keycodes {
 #define LOWER  MO(_LOWER)
 #define RAISE  MO(_RAISE)
 #define ADJUST MO(_ADJUST)
-#define TAPPING_TERM 130
+#define TAPPING_TERM 120
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 /* Qwerty
